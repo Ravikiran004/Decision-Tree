@@ -1,0 +1,1 @@
+Dive into Decision Trees, a popular machine learning algorithm known for its interpretability and versatility. This folder covers the principles behind decision tree construction, tree pruning, and visualization. Practical examples and coding exercises in Python will guide you through building and interpreting decision trees for various applications.
